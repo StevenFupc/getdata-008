@@ -43,7 +43,7 @@ The output tidy dataset consists of:
     
 ---------------------------------------------------------------------
     
-* label
+* activity
     - Position: 02/68
     - Type: Characters  
     - Description: Descriptive name of the activity performed by the subject.
